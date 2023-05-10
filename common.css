@@ -1,0 +1,18 @@
+.main_box{
+    margin: 40px;
+    height: auto;
+    width: 1300px;
+    background-color: #eee;
+    padding: 50px;
+}
+.con{
+    height: auto;
+    width: 50%;
+}
+.photo{
+    position: absolute;
+    left: 52%;
+    height: 20pc;
+    width: 45%;
+    background-image: url('School.jpeg');
+}
